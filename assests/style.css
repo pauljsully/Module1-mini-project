@@ -1,0 +1,49 @@
+.display-inline {
+    display: inline;
+    }
+    
+    h1,
+    h2 {
+    border: 2px solid blanchedalmond;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    font-size: 50px;
+    border-radius: 50%;
+    }
+    
+    body {
+        background-color: rgb(37, 75, 102);
+        color: white;
+        text-align: center;
+        font-size: 25px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      }
+    
+      img {
+        border: 20px solid blanchedalmond;
+        border-radius: 80%;
+      }
+    
+      nav {
+        border: 2px solid blanchedalmond;
+        border-style:groove;
+        text-align: justify;
+        margin-right: 1000px;
+        margin-block: 10px;
+      }
+    
+      .example-box {
+        /* Shortcut method sets top and bottom padding to 20px and left and right to 40px */
+        padding: 20px 40px;
+    
+      }
+    /* Uses hex code to define color */
+    .section-blue {
+      color: white;
+      background-color: navy;
+    }
+      
+    form {
+      font-size: 30px;
+    }
